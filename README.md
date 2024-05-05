@@ -5,5 +5,7 @@ Data _set: Cars.csv
 Calculate the probability of MPG of Cars for the below cases.
        MPG <- Cars$MPG
 a.	P(MPG>38)
+
 b.	P(MPG<40)
+
 c.	P (20<MPG<50)
